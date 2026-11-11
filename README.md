@@ -4,7 +4,9 @@ End-to-End E-Commerce Data Engineering project built on **Databricks, PySpark, S
 
 ## High-Level Architecture
 
-[./High-Level%20Diagram%20Architecture.jfif]
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CpatJun/Ecommerce-medallion-lakehouse/refs/heads/main/High-Level%20Diagram%20Architecture.jfif" width="100%" alt="High-Level Architecture">
+</p>
 
 ## Project Overview
 
